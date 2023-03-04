@@ -1,1 +1,3 @@
-# STAT5125_exampleA line I wrote on my local computer
+# STAT5125_example
+
+This is a line from RStudio
