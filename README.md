@@ -1,4 +1,3 @@
 # STAT5125_example
 
-Adding stuff.
-I really like learning Git in STAT 5125 
+Now I'm doing this from RStudio.
